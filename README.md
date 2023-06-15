@@ -5,9 +5,7 @@
  <p>- <i>I'm a data science student, aspiring software developer, and Hadoop, LLM, and NLP enthusiast. With a diverse skill-set and a passion for writing high-quality code and technical content, I'm the perfect addition to any team. So, let's collaborate and make some magic happen!</i></p>
 
 
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
-
-## ⚡🙋‍♂️ About Me
+## 🐰 About Me
 
 </br>
 
@@ -87,6 +85,20 @@
 
 </br>
 </br>
+</td>
+</tr>
+
+<tr>
+<td>
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Palak807&theme=dark&hide_border=true)
+</td>
+<td>
+ 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak807&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+</td>
+ 
+</tr>
 
 
 
